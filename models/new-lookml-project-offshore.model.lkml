@@ -9,3 +9,5 @@ datagroup: new-lookml-project-offshore_default_datagroup {
 }
 
 persist_with: new-lookml-project-offshore_default_datagroup
+
+explore: movie_dataset {}
